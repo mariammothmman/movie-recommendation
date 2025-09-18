@@ -27,5 +27,5 @@ and evaluates performance using **precision@K**.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/movie-recommendation.git
+   git clone https://github.com/mariammothmman/movie-recommendation.git
    cd movie-recommendation
